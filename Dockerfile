@@ -1,1 +1,1 @@
-FROM docker pull docker.io/deluan/navidrome:latest
+FROM docker pull https://registry.hub.docker.com/deluan/navidrome:latest
